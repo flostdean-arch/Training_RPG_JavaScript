@@ -28,3 +28,19 @@ export const TIP_SIZE = 50;
 
 export const SCREEN_WIDTH = 640;
 export const SCREEN_HEIGHT = 480;
+
+// ===============================================================================
+// 画像ファイルパス
+// ===============================================================================
+
+export const IMAGE_DIR = '../data/picture/';
+
+export const IMAGE_PATH = {
+    maptip:{
+        sea:`${IMAGE_DIR}SEA.png`,
+        plain:`${IMAGE_DIR}PLAIN.png`,
+        forest:`${IMAGE_DIR}FOREST.png`,
+        mountain:`${IMAGE_DIR}MOUNTAIN.png`,
+        castle:`${IMAGE_DIR}CASTLE.png`,
+    },
+};

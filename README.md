@@ -1,0 +1,2 @@
+# Training_RPG_JavaScript
+JavaScriptを使ってRPG作りを行います。

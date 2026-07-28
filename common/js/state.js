@@ -24,6 +24,9 @@ export const state = {
     //デバッグモード
     debugMode: false,
 
+    //ゲームの状態（ステート）
+    gameState: GAME_STATE.TITLE,
+
     //DOM
     mainCtx: false,
 

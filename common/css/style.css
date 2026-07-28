@@ -14,4 +14,9 @@ html{
     background: #888;
     color: #fff;
     overflow: auto;
+    text-align: center;
+}
+
+#gameScreen{
+    align-items: center;
 }
